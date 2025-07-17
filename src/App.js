@@ -42,7 +42,7 @@ export default function App() {
   ];
 
   return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Box sx={{ minHeight: '100vh', bgcolor: '#f4f6f8' }}>
           <AppBar position="static" color="default" elevation={1}>
             <Toolbar>
