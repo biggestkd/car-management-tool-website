@@ -38,7 +38,7 @@ export default function App() {
   const navItems = [
     { label: 'Home', path: '/' },
     // { label: 'About', path: '/about' },
-    { label: 'Privacy Policy', path: '/privacy' }
+    // { label: 'Privacy Policy', path: '/privacy' }
   ];
 
   return (
