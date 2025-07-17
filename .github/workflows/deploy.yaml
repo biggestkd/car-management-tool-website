@@ -3,9 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
-    paths:
-      - 'car-management-tool-website/**'
+      - master
 
 permissions:
   contents: write
