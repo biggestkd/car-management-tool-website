@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/car-management-tool-website/static/js/main.d3fe8106.js",
-    "static/media/man-in-front-of-car.png": "/car-management-tool-website/static/media/man-in-front-of-car.1d87a1866a5097c8e258.png",
-    "static/media/logo.png": "/car-management-tool-website/static/media/logo.f023a432e6c785d0812f.png",
-    "index.html": "/car-management-tool-website/index.html",
-    "main.d3fe8106.js.map": "/car-management-tool-website/static/js/main.d3fe8106.js.map"
+    "main.js": "/static/js/main.4df94f3f.js",
+    "static/media/man-in-front-of-car.png": "/static/media/man-in-front-of-car.1d87a1866a5097c8e258.png",
+    "static/media/logo.png": "/static/media/logo.f023a432e6c785d0812f.png",
+    "index.html": "/index.html",
+    "main.4df94f3f.js.map": "/static/js/main.4df94f3f.js.map"
   },
   "entrypoints": [
-    "static/js/main.d3fe8106.js"
+    "static/js/main.4df94f3f.js"
   ]
 }
