@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/car-management-tool/static/js/main.5c4ccca1.js",
+    "static/media/man-in-front-of-car.png": "/car-management-tool/static/media/man-in-front-of-car.1d87a1866a5097c8e258.png",
+    "static/media/logo.png": "/car-management-tool/static/media/logo.f023a432e6c785d0812f.png",
+    "index.html": "/car-management-tool/index.html",
+    "main.5c4ccca1.js.map": "/car-management-tool/static/js/main.5c4ccca1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5c4ccca1.js"
+  ]
+}
