@@ -1,7 +1,7 @@
 {
   "name": "car-management-tool-website",
   "version": "0.1.0",
-  "homepage": "https://biggestkd.github.io/car-management-tool",
+  "homepage": "https://biggestkd.github.io/car-management-tool-website",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
