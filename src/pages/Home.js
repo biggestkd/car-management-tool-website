@@ -4,13 +4,11 @@ import {
     Typography,
     Grid,
     Card,
-    CardContent,
-    useTheme
+    CardContent
 } from '@mui/material';
 import bgImage from '../assets/man-in-front-of-car.png';
 
 export default function Home() {
-    const theme = useTheme();
 
     return (
         <>
