@@ -25,6 +25,7 @@ import {
 } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import logo from './assets/logo.png';
+import DeleteAccountForm from "./pages/DeleteAccount";
 
 export default function App() {
   const [drawerOpen, setDrawerOpen] = React.useState(false);
@@ -93,6 +94,7 @@ export default function App() {
               <Route path="/" element={<Home />} />
               <Route path="/about" element={<About />} />
               <Route path="/privacy" element={<PrivacyPolicy />} />
+              <Route path="/delete" element={<DeleteAccountForm />} />
             </Routes>
           </Box>
         </Box>

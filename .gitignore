@@ -65,3 +65,6 @@ out/
 # Go workspace file
 go.work
 go.work.sum
+
+# node
+node_modules/
