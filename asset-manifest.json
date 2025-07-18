@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.d737aaab.js",
+    "main.js": "/static/js/main.f106e5b3.js",
     "static/media/man-in-front-of-car.png": "/static/media/man-in-front-of-car.1d87a1866a5097c8e258.png",
     "static/media/logo.png": "/static/media/logo.f023a432e6c785d0812f.png",
     "index.html": "/index.html",
-    "main.d737aaab.js.map": "/static/js/main.d737aaab.js.map"
+    "main.f106e5b3.js.map": "/static/js/main.f106e5b3.js.map"
   },
   "entrypoints": [
-    "static/js/main.d737aaab.js"
+    "static/js/main.f106e5b3.js"
   ]
 }
